@@ -2,7 +2,7 @@ import Link from 'next/link';
 import type { Metadata } from "next";
 import "./globals.css";
 import styles from './styles/Layout.module.css';
-import Navigation from './modules/Navigation';
+import Navigation from './components/Navigation';
 
 
 export const metadata: Metadata = {

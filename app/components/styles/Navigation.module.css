@@ -11,17 +11,17 @@
     padding: 0;
   }
   
-  .navItem a {
+  .navItem {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
   }
 
-  .navItem a.active {
+  .navItem.active {
     text-decoration: underline;
   }
   
-  .navItem a:hover {
+  .navItem:hover {
     text-decoration: underline;
   }
 
